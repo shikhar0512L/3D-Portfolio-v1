@@ -20,12 +20,13 @@ const Hero = () => {
         </h1>
         <p className={`${styles.heroSubText} mt-2 text-white-100`}>
           I am a Web developer, Student , <br className='sm:block hidden' />
-          Android developer
+          Space lover
         </p>
       </div>
     </div>
 
-    <ComputersCanvas />
+
+    <ComputersCanvas />  {/* Not working in phone */}
 
     <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center'>
       <a href='#about'>

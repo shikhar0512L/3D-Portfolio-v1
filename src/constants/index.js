@@ -14,7 +14,7 @@ import {
     threejs,
     python,
     android,
-  } from "../assets";
+} from "../assets";
   
   export const navLinks = [
     {
