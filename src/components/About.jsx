@@ -52,7 +52,7 @@ const About = () => {
     >
       I'm a software developer with experience in Python and
       JavaScript, and expertise in frameworks like React, Node.js, and
-      Three.js. I'm a quick learner and collaborate closely with clients to
+      Three.js. I am an astronomy lover. I'm a quick learner and collaborate closely with clients to
       create efficient, scalable, and user-friendly solutions that solve
       real-world problems. Let's work together to bring your ideas to life!
     </motion.p>
